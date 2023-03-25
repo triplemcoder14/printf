@@ -3,7 +3,7 @@
 - **Zandile Mdintsi** [Zandile's Github](https://github.com/zandilemdintsigithub0)
 
 
-#To Contribute on This Project
+# To Contribute on This Project
 
 1. Fork the repository. 
 2. Clone it.

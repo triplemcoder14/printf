@@ -15,10 +15,10 @@ The format string is a character string starting and ending with double quotes. 
 
 Each conversion specification is introduced by the character % and ends with a conversion specifier. In between there may be (in this order):
 
-An optional field width
+* An optional field width
 
-Zero or more flags
+* Zero or more flags
 
-An optional precision modifier
+* An optional precision modifier
 
-An  optional length modifier
+* An  optional length modifier
